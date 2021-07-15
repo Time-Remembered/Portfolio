@@ -158,7 +158,7 @@ const App = () => {
       <div className="section" id="Projects" ref={projectsRef}>
         <Projects />
       </div>
-      <div className="v_styling"></div>
+      <div className="v_styling" />
       <div className="section" id="Contact" ref={contactRef}>
         <Contact />
       </div>
